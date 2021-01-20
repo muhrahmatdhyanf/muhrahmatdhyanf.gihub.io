@@ -1,0 +1,78 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text-white{color: white;}
+
+.container {
+    background-image: url(uho.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+    weight : 90px;
+    overflow: visible;
+}
+
+header h1{
+    position: relative;
+    margin-left: 250px;
+    
+
+}
+
+.deskripsi{
+    font-size: 20px;
+    height: 20px;
+    position: relative;
+    margin-top: -500px;
+    margin-left: 30px;
+    display: block;
+    color:black;
+    
+}
+
+.link-pendaftaran {
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+.link-pascasarjana {
+    margin-left: 320px;
+    margin-bottom: 30px;
+    margin-top:-53px;
+    font-size: 20px;
+    color: white;
+}
+
+.image1 {
+    height: 350px;
+    width: 300px;
+    margin-left: 60% ;
+    margin-bottom: 50px;
+    margin-top: -3%;
+    position: relative;
+}
+
+.image2 {
+    height: 100px;
+    width: 150px;
+    margin-bottom: 30%;
+    margin-top: %;
+}
+
+.image3 {
+    height: 100px;
+    width: 100px;
+    margin-bottom: 40%;
+    margin-top: 10%;
+    margin-right: 10%
+}
+ 
